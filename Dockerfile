@@ -1,1 +1,1 @@
-FROM httpd:2.4.57
+FROM httpd:2.4.58
